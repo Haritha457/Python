@@ -17,3 +17,5 @@ day1.8.png-split up
 day1.9.png-entering leaving guests
 
 day1.10.png-frequency of character
+
+day2.1climbing staircase.png
