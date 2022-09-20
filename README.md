@@ -18,4 +18,18 @@ day1.9.png-entering leaving guests
 
 day1.10.png-frequency of character
 
-day2.1climbing staircase.png
+day2.1climbing staircase.py
+
+day2.2leap year.py
+
+day2.3number of words.py
+
+day2.4merge two sorts.py
+
+day2.6.py-phonenum
+
+day2.7.py-basic paranthesis
+
+day2.8.py-expressions
+
+day2.9.py-seasons
