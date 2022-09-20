@@ -33,3 +33,6 @@ day2.7.py-basic paranthesis
 day2.8.py-expressions
 
 day2.9.py-seasons
+
+day2.10.py removing common words
+
