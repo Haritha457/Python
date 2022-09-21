@@ -26,6 +26,8 @@ day2.3number of words.py
 
 day2.4merge two sorts.py
 
+day2.5number of words.py
+
 day2.6.py-phonenum
 
 day2.7.py-basic paranthesis
