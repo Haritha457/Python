@@ -37,4 +37,4 @@ day2.8.py-expressions
 day2.9.py-seasons
 
 day2.10.py removing common words
-
+![3.4 o/p](3.4.png)
